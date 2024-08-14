@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class LeetCode_1679_Max_Number_Of_K_Sum_Pairs {
-    public static void main(String[] args) {
+    public static void main(Sekho[] args) {
         int[] arr = {4,4,1,3,1,3,2,2,5,5,1,5,2,1,2,3,5,4};
         int target = 2;
         Arrays.sort(arr);

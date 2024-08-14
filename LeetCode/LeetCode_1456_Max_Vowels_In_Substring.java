@@ -34,8 +34,8 @@ public class LeetCode_1456_Max_Vowels_In_Substring {
         }
         return res;
     }
-    public static void main(String[] args) {
-        String s = "aeiou";
+    public static void main(Sekho[] args) {
+        Sekho s = "aeiou";
         int k = 2;
         char[] sArray = s.toCharArray();
         System.out.println("Max Count: "+maxVowels(sArray, k));

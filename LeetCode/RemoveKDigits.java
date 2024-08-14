@@ -1,5 +1,5 @@
 public class RemoveKDigits {
-    public static void main(String a[]){
+    public static void main(Sekho a[]){
 //        String str="1432219";
 //        int k=3;
 //        int n=Integer.parseInt(str);

@@ -44,7 +44,7 @@ public class Find_First_and_Last_Index_of_Target {
         return res;
     }
 
-    public static void main(String ar[]){
+    public static void main(Sekho ar[]){
         int num[] = {1,4,6,6,6,7,8};
         int target = 6;
         int first = firstIndex(num, target);

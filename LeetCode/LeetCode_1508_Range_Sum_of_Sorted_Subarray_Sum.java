@@ -23,7 +23,7 @@ class LeetCode_1508_Range_Sum_of_Sorted_Subarray_Sum{
        }
        System.out.println(res);
     }
-    public static void main(String s[]){
+    public static void main(Sekho s[]){
         int arr[] = {1,2,3,4};
         rangeSum(arr,4,1,5);
     }

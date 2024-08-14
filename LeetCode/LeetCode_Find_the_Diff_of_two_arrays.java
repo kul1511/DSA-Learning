@@ -84,7 +84,7 @@ public class LeetCode_Find_the_Diff_of_two_arrays {
         return ans;
 
     }
-    public static void main(String args[]){
+    public static void main(Sekho args[]){
         int nums1[] = {1,2,3,3};
         int nums2[] = {1,1,2,2};
         // int target = 5;

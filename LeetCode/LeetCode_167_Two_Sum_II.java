@@ -1,5 +1,5 @@
 class LeetCode_167_Two_Sum_II{
-    public static void main(String a[]){
+    public static void main(Sekho a[]){
         int[] res = new int[2];
         int arr[] = {3,4,7,9,10,32};
         int target = 11;

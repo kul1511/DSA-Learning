@@ -10,7 +10,7 @@ public class LeetCode_268_Missing_Number{
         return (int) (sums-sum);
     }
 
-    public static void main(String a[]){
+    public static void main(Sekho a[]){
         int arr[] = {3,0,1};
         int num = missingNumber(arr);
         System.out.println("Missing Number: "+num);

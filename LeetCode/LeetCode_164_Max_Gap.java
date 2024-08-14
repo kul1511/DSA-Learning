@@ -15,7 +15,7 @@ public class LeetCode_164_Max_Gap {
             return gap;
     }
     
-    public static void main(String a[]){
+    public static void main(Sekho a[]){
         int[] arr = {3,10,5,1};
         int res = maximumGap(arr);
         System.out.println(res);

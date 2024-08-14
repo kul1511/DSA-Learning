@@ -8,7 +8,7 @@
         //     }
 
         // }
-        public static void main(String s[]){
+        public static void main(Sekho s[]){
             int[] ar = {2,5,3,7,5};
 
             for(int i=0 ; i<ar.length ; i++ ){

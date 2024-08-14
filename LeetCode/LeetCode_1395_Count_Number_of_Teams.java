@@ -28,7 +28,7 @@ public class LeetCode_1395_Count_Number_of_Teams {
         return ans;
     }
 
-    public static void main(String[] args) {
+    public static void main(Sekho[] args) {
         int arr[] = {2,5,3,4,1};
         System.out.println(count(arr));
     }

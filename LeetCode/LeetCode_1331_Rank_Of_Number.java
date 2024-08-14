@@ -3,7 +3,7 @@ import java.util.*;
 public class LeetCode_1331_Rank_Of_Number {
 
     
-    public static void main(String s[]){
+    public static void main(Sekho s[]){
         Scanner scan = new Scanner(System.in);
 
 
